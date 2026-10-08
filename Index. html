@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEXORA</title>
+</head>
+
+<body>
+
+    <h1>NEXORA</h1>
+
+    <p>Learn it. See it. Experience it. Build it.</p>
+
+    <h2>Welcome to NEXORA</h2>
+
+    <p>Your personal universe of knowledge.</p>
+
+    <button>Explore Chemistry</button>
+
+</body>
+</html>
